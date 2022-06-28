@@ -12,7 +12,7 @@ export default function Footer() {
           </div>
             <div className="row bg-dark py-3">
                 <div className="col">
-                   <p className='mb-0 text-center text-white'>&copy;  2022.Muhammad Talha</p>
+                   <p className='mb-0 text-center text-white'>&copy;  2022. Muhammad Talha</p>
                 </div>
             </div>
         </div>
