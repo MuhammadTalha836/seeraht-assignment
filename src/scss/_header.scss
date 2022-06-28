@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100&family=Stick+No+Bills:wght@200&display=swap');
+
+Link {
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+header {
+    .navbar {
+        button.nav-link {
+            background-color: transparent;
+            border: none;
+        }
+    }
+}
