@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="row ">
             <div className="col px-0">
               <img src="https://www.w3schools.com/w3images/map.jpg" alt="" srcset=""  className='img-fluid'/>
-            </div>
+            </div> 
           </div>
             <div className="row bg-dark py-3">
                 <div className="col">
